@@ -1,0 +1,15 @@
+/Users/julia/Projects/firstProject/firstProject/bin/Debug/net6.0/firstProject
+/Users/julia/Projects/firstProject/firstProject/bin/Debug/net6.0/firstProject.deps.json
+/Users/julia/Projects/firstProject/firstProject/bin/Debug/net6.0/firstProject.runtimeconfig.json
+/Users/julia/Projects/firstProject/firstProject/bin/Debug/net6.0/firstProject.dll
+/Users/julia/Projects/firstProject/firstProject/bin/Debug/net6.0/firstProject.pdb
+/Users/julia/Projects/firstProject/firstProject/obj/Debug/net6.0/firstProject.csproj.AssemblyReference.cache
+/Users/julia/Projects/firstProject/firstProject/obj/Debug/net6.0/firstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julia/Projects/firstProject/firstProject/obj/Debug/net6.0/firstProject.AssemblyInfoInputs.cache
+/Users/julia/Projects/firstProject/firstProject/obj/Debug/net6.0/firstProject.AssemblyInfo.cs
+/Users/julia/Projects/firstProject/firstProject/obj/Debug/net6.0/firstProject.csproj.CoreCompileInputs.cache
+/Users/julia/Projects/firstProject/firstProject/obj/Debug/net6.0/firstProject.dll
+/Users/julia/Projects/firstProject/firstProject/obj/Debug/net6.0/refint/firstProject.dll
+/Users/julia/Projects/firstProject/firstProject/obj/Debug/net6.0/firstProject.pdb
+/Users/julia/Projects/firstProject/firstProject/obj/Debug/net6.0/firstProject.genruntimeconfig.cache
+/Users/julia/Projects/firstProject/firstProject/obj/Debug/net6.0/ref/firstProject.dll
