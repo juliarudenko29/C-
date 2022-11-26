@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nBTECly+VS4THzx5Udse6r/hLgPmZIkDJa6tV3ClFuub6CVu8Y75KFECHggcCyXg1ZNJAmIskduF8uVRw78v3w==",
+  "dgSpecHash": "HFZiw6Wd5GLm8BoaMjzVL9P22KBx0PZm4TnOUVdTEEgfYdq4v1mW4Rc5PCkhEmFbSpHedWMu/WtHyjdAGAMO6Q==",
   "success": true,
-  "projectFilePath": "/Users/julia/Projects/firstProject/firstProject/firstProject.csproj",
+  "projectFilePath": "/Users/julia/Desktop/C#/firstProject/firstProject/firstProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

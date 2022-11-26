@@ -19,7 +19,9 @@ Console.ReadKey();
 
 void task1()
 {
+    Console.Write("Введите первое число: ");
     int a = Int32.Parse(Console.ReadLine());
+    Console.Write("Введите второе число: ");
     int b = Int32.Parse(Console.ReadLine());
 
     var result = a > b ? a : b;
@@ -28,8 +30,11 @@ void task1()
 
 void task2()
 {
+    Console.Write("Введите первое число: ");
     int a = Int32.Parse(Console.ReadLine());
+    Console.Write("Введите второе число: ");
     int b = Int32.Parse(Console.ReadLine());
+    Console.Write("Введите третье число: ");
     int c = Int32.Parse(Console.ReadLine());
 
     var block1 = a > b ? a : b;
@@ -40,6 +45,7 @@ void task2()
 
 void task3()
 {
+    Console.Write("Введите число: ");
     int a = Int32.Parse(Console.ReadLine());
     var result = a % 2 == 0 ? "четное" : "нечетное";
     Console.WriteLine($"Число {a} {result}");
@@ -47,6 +53,7 @@ void task3()
 
 void task4()
 {
+    Console.Write("Введите число: ");
     int n = Int32.Parse(Console.ReadLine());
 
     if (n < 1)
@@ -62,13 +69,16 @@ void task4()
             Console.Write($"{i.ToString()} ");
         }
     }
+
+    Console.WriteLine();
 }
 
 void task5()
 {
+    Console.Write("Введите число: ");
     int value = Int32.Parse(Console.ReadLine());
 
-    if ((value < 100) && (value < 0 && value > -100))
+    if ((value < 100 && value > 0) || (value < 0 && value > -100))
     {
         Console.WriteLine("Такой цифры нет");
         return;

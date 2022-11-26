@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/julia/Projects/firstProject/firstProject/firstProject.csproj": {}
+    "/Users/julia/Desktop/C#/firstProject/firstProject/firstProject.csproj": {}
   },
   "projects": {
-    "/Users/julia/Projects/firstProject/firstProject/firstProject.csproj": {
+    "/Users/julia/Desktop/C#/firstProject/firstProject/firstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/julia/Projects/firstProject/firstProject/firstProject.csproj",
+        "projectUniqueName": "/Users/julia/Desktop/C#/firstProject/firstProject/firstProject.csproj",
         "projectName": "firstProject",
-        "projectPath": "/Users/julia/Projects/firstProject/firstProject/firstProject.csproj",
+        "projectPath": "/Users/julia/Desktop/C#/firstProject/firstProject/firstProject.csproj",
         "packagesPath": "/Users/julia/.nuget/packages/",
-        "outputPath": "/Users/julia/Projects/firstProject/firstProject/obj/",
+        "outputPath": "/Users/julia/Desktop/C#/firstProject/firstProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/julia/.nuget/NuGet/NuGet.Config"
